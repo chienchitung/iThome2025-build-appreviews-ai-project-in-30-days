@@ -1,4 +1,4 @@
-# iThome 2025 鐵人賽
+# iThome 2025 鐵人賽 - 30 天打造 App 評論洞察系統：用 AI 讓產品團隊更懂用戶
 
 ## 應用程式評論 AI 洞察系統 (App Reviews AI Insights System)
 
